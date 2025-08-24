@@ -34,4 +34,4 @@ Incluye paneles interactivos con botones y menús desplegables para que los usua
 
    ```bash
    git clone https://github.com/adrianez28/AdrianDevelopment-Discord-Bot.git
-   cd adriandevelopment-bot
+   cd AdrianDevelopment-Discord-Bot
