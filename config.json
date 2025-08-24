@@ -1,0 +1,22 @@
+{
+    "bot_config": {
+        "token": "YOUR_BOT_TOKEN",
+        "prefix": "/",
+        "owner_id": 1,
+        "server_id": 1,
+        "activity": "AdrianDevelopment",
+        "log_channel_id": 1,
+        "discord_bots_panel_channel": 1,
+        "projects_panel_channel": 1,
+        "discord_customer_role": 1,
+        "projects_customer_role": 1
+    },
+    "payment_config": {
+        "paypal": {
+            "email": "YOUR_PAYPAL_EMAIL"
+        },
+        "litecoin": {
+            "address": "YOUR_LITECOIN_ADDRESS"
+        }
+    }
+}
